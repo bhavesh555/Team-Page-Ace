@@ -12,7 +12,7 @@ function Services () {
        
                     <div class="col-md-12 text-center">
 
-                          <h2 class="section-title">The Team Behind Pacifico</h2>
+                          <h2 class="section-title">ACE WEB TEAM</h2>
 
                           <p class="section-subtitle">{message}</p>
                           
@@ -22,10 +22,10 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team1a.jpg" class="team-img" alt="pic" />                   
-                      <h3>JOHNATHAN HAWKINS</h3>            
-                      <div class="team-info"><p>Head of SEO</p></div>
-                      <p>Johnathan is our  co-founder and has developed search strategies for a variety of clients from international brands to medium sized businesses for over five years.</p>
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCi4R4aiNAFT1xwueNV-_81XLDxRuPTBkoLvHUMoEE4Q&usqp=CAU&ec=48600113" class="team-img" alt="pic" />                   
+                      <h3>BHAVESH CHANDANI</h3>            
+                      <div class="team-info"><p>BACKEND TEAM MEMBER</p></div>
+                      <p>HI BHAVESH HERE</p>
                   
                       <ul class="team-icon">
                       
@@ -55,13 +55,13 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team2a.jpg" class="team-img" alt="pic" />
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCi4R4aiNAFT1xwueNV-_81XLDxRuPTBkoLvHUMoEE4Q&usqp=CAU&ec=48600113" class="team-img" alt="pic" />
                      
-                      <h3>ALEXANDRA SMITHS</h3>
+                      <h3>SHRIYANSH GAUR</h3>
                       
-                      <div class="team-info"><p>SEO Specialist</p></div>
+                      <div class="team-info"><p>BACKEND TEAM HEAD</p></div>
 
-                      <p>Graduating with a degree in Spanish and English, Alexandra has always loved writing and now she’s lucky enough to do it as part of her new job inside our agency.</p>
+                      <p>HEAD OF WEB TEAM</p>
                   
                       <ul class="team-icon">
                       
@@ -82,13 +82,13 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team3a.jpg" class="team-img" alt="pic" />
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCi4R4aiNAFT1xwueNV-_81XLDxRuPTBkoLvHUMoEE4Q&usqp=CAU&ec=48600113" class="team-img" alt="pic" />
                      
-                      <h3>ELISA JOHANSON</h3>
+                      <h3>MUKESH KUMAR SAHU</h3>
                       
-                      <div class="team-info"><p>Marketing Manager</p></div>
+                      <div class="team-info"><p>BACKEND TEAM MEMBER</p></div>
 
-                      <p>Elisa first fell in love with digital marketing at the university. He loves to learn, and looks forward to being part of this new exciting industry for many years.</p>
+                      <p>HI I AM MUKESH</p>
                   
                       <ul class="team-icon">
                       
