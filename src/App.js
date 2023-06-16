@@ -2,7 +2,7 @@ import React from "react";
 import Services from "./components/Services";
 import './App.css';
 import {useState, useEffect} from 'react'
-import ClipLoader from "react-spinners/ClipLoader";
+import RingLoader from "react-spinners/RingLoader";
 
 function App() {
   const[loading, setLoading] = useState(false)
@@ -17,10 +17,9 @@ function App() {
     <div>
       {
         loading?
-        <ClipLoader
+        <RingLoader
         color={'#90EE90'}
         loading={loading}
-        cssOverride={override}
         size={100}
         aria-label="Loading Spinner"
         data-testid="loader"
