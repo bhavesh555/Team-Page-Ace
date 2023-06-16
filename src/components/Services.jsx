@@ -55,7 +55,7 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCi4R4aiNAFT1xwueNV-_81XLDxRuPTBkoLvHUMoEE4Q&usqp=CAU&ec=48600113" class="team-img" alt="pic" />
+                      <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qrsoSEK7jHh56a1PsWqQEdsweHULqGFISNr0DhrC6fYwTk1xvbh0wapW7t-0qh3QLR-Kx_HrE01brbDs6aYZFBjsvc=s1600" class="team-img" alt="pic" />
                      
                       <h3>SHRIYANSH GAUR</h3>
                       
