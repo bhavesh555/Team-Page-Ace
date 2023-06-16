@@ -7,12 +7,12 @@
 
 
 .section-white {
+	background: #fff;
 	padding: 70px 0;
-  background-image: url(https://img.freepik.com/free-photo/3d-abstract-space-sky-with-stars-nebula_1048-8320.jpg?w=740&t=st=1686916756~exp=1686917356~hmac=fa5eb40b0642f0ea4c189b6ae30cb3f7f66784f824e70fea7fc9c1764bb79518);
 }
 
 .team-item{
-	background: #85b1dc;
+	background: #ffffff;
 	text-align:center;
 	margin:20px 0;
 	padding:50px 20px 40px 20px;
@@ -31,7 +31,7 @@
 
 .team-item h3{
 	margin:20px 0 1px 0!important;
-	color:#454545;
+	color:#ff0000;
 	font-size:18px;
 	font-weight: 700;
 	text-transform:uppercase;
@@ -54,16 +54,16 @@
 }
 
 .team-info p{
-	color:#acacac;
+	color:#ff0000;
 	font-style:italic;
 }
 
 .team-info::after {
     background: #008aff;
-    background: -webkit-linear-gradient(135deg, #6B02FF 0%, #985BEF 100%);
-    background: -o-linear-gradient(bottom right, #6B02FF, #985BEF);
-    background: -moz-linear-gradient(bottom right, #008aff, #1ad2fd);
-    background: linear-gradient(135deg, #6B02FF 0%, #985BEF 100%);
+    background: -webkit-linear-gradient(135deg, #8547db 0%, #985BEF 100%);
+    background: -o-linear-gradient(bottom right, #8547db, #985BEF);
+    background: -moz-linear-gradient(bottom right, #8547db, #8547db);
+    background: linear-gradient(135deg, #8547db 0%, #8547db 100%);
     display: inline-block;
     vertical-align: middle;
     content: "";
@@ -107,7 +107,7 @@ ul.team-icon li a{
 	color:#fff;
 }
 
-ul.team-icon li a.twitter{
+ul.team-icon li a.linkedin{
 	background-color: #4099ff;
 }
 

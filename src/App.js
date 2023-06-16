@@ -2,33 +2,31 @@ import React from "react";
 import Services from "./components/Services";
 import './App.css';
 import {useState, useEffect} from 'react'
-import RingLoader from "react-spinners/RingLoader";
+import Particles from 'react-particles-js';
 
 function App() {
-  const[loading, setLoading] = useState(false)
-  useEffect(()=>{
-    setLoading(true)
-    setTimeout(()=>{
-      setLoading(false)
-    },5000)
-  },[])
-
    return (
     <div className="App">
-      {
-        loading?
-        <RingLoader
-        color={'#90EE90'}
-        loading={loading}
-        size={100}
-        aria-label="Loading Spinner"
-        data-testid="loader"
-      />
-      :
+     <Particles
+    params={{
+	    "particles": {
+	        "number": {
+	            "value": 50
+	        },
+	        "size": {
+	            "value": 3
+	        }
+	    },
+	    "interactivity": {
+	        "events": {
+	            "onhover": {
+	                "enable": true,
+	                "mode": "repulse"
+	            }
+	        }
+	    }
+	}} />
       <Services />
-
-      }
-    
     </div>
    )
  

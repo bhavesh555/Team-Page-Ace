@@ -29,8 +29,8 @@ function Services () {
                   
                       <ul class="team-icon">
                       
-                          <li><a href="#" class="twitter">
-                            <i class="fa fa-twitter"></i>
+                          <li><a href="#" class="linkedin">
+                            <i class="fa fa-linkedin"></i>
                         </a></li>
                           
                           <li><a href="#" class="pinterest">
